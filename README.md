@@ -1,17 +1,23 @@
-# Quadratic Equations Solver
+# Решатель квадратных уравнений
 
-[TODO. There will be project description]
+[TODO. Здесь будет описание проекта]
 
-# How to Use
+# Как использовать
 
-[TODO]
+[TODO. Здесь будет описание программного интерфейса: функции, их аргументы, формат ответа]
 
-# How to Launch Tests
+# Как запустить
+
+Скрипт требует для своей работы установленного интерпретатора Python версии 3.5
+
+Запуск на Linux:
 
 ```bash
-python tests.py
+python tests.py # может понадобиться вызов python3 вместо python, зависит от настроек операционной системы
 ```
 
-# Project Goals
+Запуск на Windows происходит аналогично.
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+# Цели проекта
+
+Код создан в учебных целях. В рамках учебного курса по веб-разработке ― [DEVMAN.org](https://devman.org)
