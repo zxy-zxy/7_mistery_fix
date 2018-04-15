@@ -10,13 +10,17 @@ from quadratic_equation import get_roots
 
 root1, root2 = get_roots(a, b, c)
 ```
-Where ![](http://latex.codecogs.com/gif.latex?a%2C%20b%2C%20c) coefficients of quadratic equation
+Where 
+
+![](http://latex.codecogs.com/gif.latex?a%2C%20b%2C%20c)
+
+ coefficients of quadratic equation
 
 ![](http://latex.codecogs.com/gif.latex?a%5E2%20&plus;%20b%20&plus;%20c)
 
 ### Tests
 Repository contains a set of tests. You can execute it with shell inside directory with tests.py:
-```
+```bash
 python -m unittest
 ``` 
 ## Project goals
