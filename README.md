@@ -16,7 +16,7 @@ Where
 
  coefficients of quadratic equation
 
-![](http://latex.codecogs.com/gif.latex?a%5E2%20&plus;%20b%20&plus;%20c)
+![](http://latex.codecogs.com/gif.latex?ax%5E2%20&plus;%20bx%20&plus;%20c)
 
 ### Tests
 Repository contains a set of tests. You can execute it with shell inside directory with tests.py:
